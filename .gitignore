@@ -77,3 +77,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/LeetCode/v15
